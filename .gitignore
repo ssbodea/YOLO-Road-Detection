@@ -10,7 +10,7 @@ __pycache__/
 
 # Ignore all other models in trained_models except yolov8n_test
 trained_models/*
-!trained_models/yolov8n_test/
+!trained_models/yolov8n/
 
 # Ignore road_detection folder
 road_detection/
