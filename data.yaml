@@ -1,0 +1,23 @@
+# YOLO dataset configuration
+
+# Paths to your dataset splits
+train: D:\SBC_PROIECT\road_detection\train\images
+val: D:\SBC_PROIECT\road_detection\valid\images
+test: D:\SBC_PROIECT\road_detection\test\images
+
+# Number of classes
+nc: 11
+
+# Class names
+names:
+  0: Car
+  1: Different-Traffic-Sign
+  2: Green-Traffic-Light
+  3: Motorcycle
+  4: Pedestrian
+  5: Pedestrian-Crossing
+  6: Prohibition-Sign
+  7: Red-Traffic-Light
+  8: Speed-Limit-Sign
+  9: Truck
+  10: Warning-Sign
