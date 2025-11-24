@@ -49,8 +49,8 @@ Run the following commands to get the project running quickly:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ssbodea/SBCPROIECT.git
-cd SBCPROIECT
+git clone https://github.com/ssbodea/YOLO-Road-Detection.git
+cd YOLO-Road-Detection
 
 # Create a Python virtual environment
 python -m venv venv
